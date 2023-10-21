@@ -1,0 +1,27 @@
+/* Estilos para la página del Futbol Club Barcelona */
+ion-header {
+    --background: #0070C1; /* Color de fondo del encabezado */
+    color: #fff; /* Color del texto en el encabezado */
+    }
+
+    ion-title {
+    font-size: 24px; /* Tamaño de fuente del título */
+    }
+
+    ion-content {
+    --background: #f0f0f0; /* Color de fondo del contenido */
+    padding: 20px; /* Espaciado interior del contenido */
+    }
+
+  /* Estilos para la sección de información sobre el FC Barcelona */
+    app-explore-container {
+    background-color: #fff; /* Color de fondo del contenedor */
+    padding: 20px; /* Espaciado interior del contenedor */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+    }
+
+    app-explore-container p {
+    font-size: 16px; /* Tamaño de fuente del texto de información */
+    line-height: 1.5; /* Espaciado entre líneas */
+    }

@@ -1,0 +1,28 @@
+/* Estilos para la página de Lionel Messi */
+ion-header {
+    --background: #ff0000; /* Color de fondo del encabezado */
+    color: #fff; /* Color del texto en el encabezado */
+  }
+  
+  ion-title {
+    font-size: 28px; /* Tamaño de fuente del título */
+  }
+  
+  ion-content {
+    --background: #f9f9f9; /* Color de fondo del contenido */
+    padding: 20px;
+  }
+  
+  /* Estilos para los encabezados de sección */
+  h1, h2, h3, h4 {
+    color: #0070C1; /* Color de los encabezados */
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  /* Estilos para el texto principal */
+  p {
+    margin-top: 10px;
+    color: #333; /* Color del texto principal */
+  }
+  
